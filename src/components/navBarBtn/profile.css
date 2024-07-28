@@ -1,0 +1,27 @@
+.profileNav{
+    margin-left: 60rem;
+    margin-top: 2rem;
+    border: 10px;
+    border-radius: 10px;
+    width: 20rem;
+    height: 30rem;
+    align-items: center;
+    background: #fff;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+}
+
+.user-container{
+    margin-top: 30px;
+}
+
+.userImg{
+    margin-top: 1rem;
+    border-radius: 50px;
+}
+
+.userName{
+    margin-top: 10px;
+
+}

@@ -1,0 +1,58 @@
+
+.header-container{
+    margin-left: 15rem;
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    height: 60px;
+
+}
+
+.center-container{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    color: black;
+}
+
+.search-container{
+    width: 14rem;
+    margin-top: 5px;
+    margin-left: 400px;
+    border-radius: 15px;
+    text-align: left;
+    font-size: large;
+    color: black;
+}
+
+.btnNotice{
+    margin-top: 5px;
+    background: #fff;
+    display: flex;
+    margin-left: 360px;
+    border: 0px;
+}
+
+.right-container{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+.profile{
+    margin-top: 8px;
+    margin-right: 5px;
+    text-align: center;
+    align-items: center;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.profileImg{
+    margin-top: 4px;
+    margin-left: 5px;
+    margin-right: 10px;
+}

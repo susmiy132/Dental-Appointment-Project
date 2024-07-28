@@ -1,0 +1,117 @@
+
+.signup-container{
+    display: flex;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 1px;
+    height: 507px;
+    background: #cddee2;
+    border-radius: 5px;
+}
+
+.DentImg{
+    margin-top: 0px;
+    position: relative;
+}
+
+.container{
+    flex-direction: column;
+    margin: auto;
+    margin-top: 25px;
+    margin-left: 27.1rem;
+    padding-bottom: 25px;
+    width: 350px;
+    height: 430px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.header{
+    display: flex;
+    width: 400px;
+    height: 80px;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.text{
+    color: black;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.underline{
+    width: 31px;
+    height: 3px;
+    background: black;
+    border-radius: 9px;
+}
+
+.inputs{
+    color: black;
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.input{
+    color: black;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 280px;
+    height: 30px;
+    background: #fff;
+    border-radius: 6px;
+}
+
+.input img{
+    margin: 0px 30px;
+}
+
+.input input{
+    height: 50px;
+    width: 300px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #6AB9D2;
+    font-size: 19px;
+}
+
+.forgot-password{
+    margin-left: 0px;
+    margin-top: 15px;
+    color: black;
+    font-size: 16px;
+}
+
+.forgot-password span{
+
+    color: #6AB9D2;
+    cursor: pointer;
+}
+
+.submit-container{
+    display: flex;
+    margin: 40px 50px;
+    gap: 40px;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 30px;
+    color: black;
+    background: #6AB9D2;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}

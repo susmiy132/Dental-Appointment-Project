@@ -1,0 +1,13 @@
+.noticeNav{
+    margin-top: 2rem;
+    margin-left: 60rem;
+    border: 10px;
+    border-radius: 10px;
+    width: 20rem;
+    height: 20rem;
+    align-items: center;
+    background: #fff;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+}

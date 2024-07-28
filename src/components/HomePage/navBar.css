@@ -1,0 +1,14 @@
+.menu-items{
+    width: auto;
+    margin-top: 1px;
+    background: #6AB9D2;
+    border-radius: 5px;
+    height: 60px;
+}
+
+.list-items{
+    margin-left: 70rem;
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}

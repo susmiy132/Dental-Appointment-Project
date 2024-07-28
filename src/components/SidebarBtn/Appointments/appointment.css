@@ -1,0 +1,97 @@
+.appointment-container{
+    margin-top: 2rem;
+    width: 60rem;
+    height: 40rem;
+    background: #6AB9D2;
+    align-items: center;
+}
+
+/* .container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 2rem;
+    padding-bottom: 30px;
+    width: 400px;
+    height: 480px;
+    border-radius: 10px;
+    background: #15a0b6;
+} */
+
+.header{
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.container{
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.underline{
+    width: 45px;
+    height: 4px;
+    background: rgb(0, 0, 0);
+    border-radius: 9px;
+}
+
+.inputs{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 280px;
+    height: 30px;
+    background: #fff;
+    border-radius: 6px;
+}
+
+.input img{
+    margin: 0px 30px;
+}
+
+.input input{
+    height: 50px;
+    width: 300px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #15a0b6;
+    font-size: 19px;
+}
+
+
+
+.submit-container{
+    display: flex;
+    margin: 40px 100px;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    color: #000000;
+    background: #ffffff;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+    border: 5px;
+}
