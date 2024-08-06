@@ -1,13 +1,58 @@
 .noticeNav{
-    margin-top: 2rem;
-    margin-left: 60rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
     border: 10px;
     border-radius: 10px;
-    width: 20rem;
-    height: 20rem;
-    align-items: center;
-    background: #fff;
+    width: 78rem;
+    height: 40rem;
+    background: #6AB9D2;
     text-align: center;
     font-size: large;
     font-weight: 700;
 }
+
+.notice-input{
+    margin-left: 60rem;
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background: #fff;
+}
+
+.name-notice{
+    font-size: xx-large;
+}
+.notice-inputs-text{
+    background: #fff;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: left;
+    font-size: smaller;
+    font-style: normal;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+    .text-inputs{
+        background: #fff;
+        color: black;
+        margin-top: 50px;
+        margin-left: 20px;
+        width: 250px;
+        height: 50px;
+        border-radius: 5px; 
+        font-size: large;
+        text-align: left;
+    }
+
+    .add-notice{
+        margin-left: 20px;
+        background: #6AB9D2;
+        border-radius: 5px;
+        font-style: normal;
+        font-size: large;
+        border: 30px;
+        width: 100px;
+        height: 45px;
+    }

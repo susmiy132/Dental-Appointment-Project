@@ -22,7 +22,7 @@
     margin-top: 0rem;
 }
 
-.menu-items{
+.menus-items{
     font-size: 1rem;
     background-color: #ffffff;
     margin-top: 5rem;
@@ -67,7 +67,7 @@
     width: 10.4rem;
     height: 2.5rem;
     border: none;
-    background: #ffffff;
+    background: #fff;
     text-size-adjust: large;
     border: 5px;
     border-radius: 20px;

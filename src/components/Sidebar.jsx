@@ -4,7 +4,7 @@ import "./Styles/sidebar.css"
 import logo from "../assets/logo.jpg";
 import notices from "../assets/notices.png";
 import feedback from "../assets/feed.png";
-import doctor from "../assets/threedots.png"
+import doctor from "../assets/doctors.jpg"
 import dash from "../assets/home.png";
 import appointment from "../assets/book.png";
 import setting from "../assets/setting.jpg"
@@ -41,7 +41,7 @@ const Sidebar = () => {
       <h1 className='dentalheadings'> <img className='logoImg' src={logo} alt="" />DentalDates </h1>
       
 
-      <div className='menu-items'>
+      <div className='menus-items'>
 
         <button className='btndashboard' onClick={() => navigateToDashboard('/dash')}>
           <img className='dashImg' src={dash} alt="" /> 

@@ -1,22 +1,10 @@
-.appointment-container{
+.update-container{
     margin-top: 1rem;
     width: 60rem;
     height: 40rem;
     background: #6AB9D2;
     align-items: center;
 }
-
-/* .container{
-    display: flex;
-    flex-direction: column;
-    margin: auto;
-    margin-top: 2rem;
-    padding-bottom: 30px;
-    width: 400px;
-    height: 480px;
-    border-radius: 10px;
-    background: #15a0b6;
-} */
 
 .header{
     display: flex;
@@ -35,7 +23,7 @@
 }
 
 .underline{
-    width: 45px;
+    width: 85px;
     height: 4px;
     background: rgb(0, 0, 0);
     border-radius: 9px;
@@ -45,6 +33,7 @@
     margin-top: 55px;
     display: flex;
     flex-direction: column;
+    background: #6AB9D2;
     gap: 25px;
 }
 
@@ -74,14 +63,14 @@
 
 
 
-.submits-container{
+.updateItem{
     display: flex;
     margin: 40px 100px;
     text-align: center;
     margin-left: 400px;
 }
 
-.submits{
+.updatebtn{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -94,24 +83,4 @@
     font-weight: 700;
     cursor: pointer;
     border: 5px;
-}
-
-.viewAppointment-container{
-    text-align: left;
-    margin-left: 20px;
-    text-align: left;
-}
-
-.viewAppointments{
-    margin-left: 20px;
-    justify-content: Right;
-    width: 200px;
-    height: 40px;
-    color: #000000;
-    background: #ffffff;
-    font-size: 19px;
-    font-weight: 700;
-    cursor: pointer;
-    border: #15a0b6;
-    border-radius: 10px;
 }

@@ -2,25 +2,25 @@ import React from 'react'
 import './index.css'
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
-import HomePage from './components/homepage'
+// import HomePage from './components/homepage'
 
-// import Navbar from './components/Navbar';
-// import Sidebar from './components/Sidebar';
-// import Mainbody from './components/Mainbody';
+import Navbar from './components/Navbar';
+import Sidebar from './components/Sidebar';
+import Mainbody from './components/Mainbody';
 
 const App = () => {
   return (
     <Router>
       <div className='dashboard'>
 
-        <HomePage/>
+        {/* <HomePage/> */}
 
 
-        {/* <Navbar/>
+        <Navbar/>
         
         <Sidebar/>
 
-        <Mainbody/> */}
+        <Mainbody/>
        
       
       

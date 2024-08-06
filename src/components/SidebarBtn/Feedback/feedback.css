@@ -1,7 +1,80 @@
 .feedback-container{
     margin-top: 2rem;
+    border: 10px;
+    border-radius: 10px;
     width: 60rem;
-    height: 40rem;
-    align-items: center;
+    height: 20rem;
+    background: #6AB9D2;
+    text-align: left;
+    font-size: large;
+    font-weight: 700;
     
 }
+
+.feedback-items{
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    background: #fff;
+    width: 350px;
+    height: 400px;
+}
+
+.update-feed{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background: #6AB9D2;
+    border-radius: 5px;
+    font-style: normal;
+    font-size: large;
+    border: 30px;
+    width: 150px;
+    height: 45px;
+}
+
+.delete-feed{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background: #6AB9D2;
+    border-radius: 5px;
+    font-style: normal;
+    font-size: large;
+    border: 30px;
+    width: 150px;
+    height: 45px;
+
+}
+
+
+.feed-inputs{
+    margin-top: 10px;
+    width: 350px;
+    height: 300px;
+    border-radius: 5px;
+    background: #fff;
+}
+    .text-feed{
+        margin-top: 30px;
+        background: #fff;
+        color: black;
+        margin-left: 20px;
+        width: 250px;
+        height: 50px;
+        border-radius: 5px; 
+        font-size: large;
+        text-align: left;
+    }
+
+    .add-feed{
+        margin-top: 30px;
+        margin-left: 20px;
+        background: #6AB9D2;
+        border-radius: 5px;
+        font-style: normal;
+        font-size: large;
+        border: 30px;
+        width: 150px;
+        height: 45px;
+    }

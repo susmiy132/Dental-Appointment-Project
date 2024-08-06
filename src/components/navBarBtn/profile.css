@@ -22,6 +22,64 @@
 }
 
 .userName{
-    margin-top: 10px;
+    margin-top: 20px;
 
+}
+
+.edit-items{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.p-edit{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background: #fff;
+}
+
+.p-edit-img{
+    margin-top: 3px;
+    margin-left: 1px;
+}
+
+.p-edit-text{
+    margin-top: 8px;
+    margin-right: 5px;
+    margin-left: 10px;
+    font-size: x-large;
+}
+
+.p-logout{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background: #fff;
+
+}
+
+.p-log-img{
+    margin-top: 3px;
+    margin-left: 1px;
+    background: #fff;
+}
+
+.p-log-text{
+    margin-top: 8px;
+    margin-right: 5px;
+    margin-left: 10px;
+    font-size: x-large;
 }

@@ -1,0 +1,47 @@
+.edits-containers{
+    margin-left: 59rem;
+    margin-top: 2rem;
+    border: 10px;
+    border-radius: 10px;
+    width: 20rem;
+    height: 25rem;
+    align-items: center;
+    background: #fff;
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+}
+
+.updates-items{
+    margin-top: 30px;
+    font-size: x-large;
+
+}
+
+.editProfileDetails{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    background: #fff;
+}
+
+.updateProfileItems{
+    margin-left: 30px;
+    width: 250px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-size: large;
+}
+
+.p-update-Btn{
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    background: #6AB9D2;
+    border-radius: 10px;
+    border: #6AB9D2;
+    font-size: x-large;
+    font-style: normal;
+}
